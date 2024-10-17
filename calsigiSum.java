@@ -1,5 +1,3 @@
-package fate;
-
 import java.security.InvalidParameterException;
 
 public class calsigiSum extends Throwable{
